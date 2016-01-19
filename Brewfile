@@ -6,6 +6,7 @@ tap caskroom/cask
 brew brew-cask
 cask 1password
 cask adobe-reader
+cask android-studio
 cask appcleaner
 cask atom
 cask bathyscaphe
@@ -33,6 +34,7 @@ cask xquartz
 ## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
+cask java7
 cask macvim-kaoriya
 
 ## homebrew/binary
@@ -63,6 +65,7 @@ brew gettext
 brew git
 brew glib
 brew gobject-introspection
+brew gradle
 brew harfbuzz
 brew icu4c
 brew jpeg
